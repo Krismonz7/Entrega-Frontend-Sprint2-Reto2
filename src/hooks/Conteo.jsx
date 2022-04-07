@@ -8,7 +8,7 @@ export const useDate = (state=100,state2=140) => {
 
 //Otro proceso
 const otroProceso = ()=>{
-const DATE_TARGET = new Date('04/05/2022 1:00 PM');
+const DATE_TARGET = new Date('04/20/2022 1:00 PM');
 // Milisegundo para los calculos
 const MILLISECONDS_OF_A_SECOND = 1000;
 const MILLISECONDS_OF_A_MINUTE = MILLISECONDS_OF_A_SECOND * 60;
